@@ -6,11 +6,11 @@ ___
 ___
 # Screenshots
 ___
-![screenshot](/ScreenShots/1.jpg)
+![screenshot](/ScreenShots/Chest1.png
 ___
-![screenshot](/ScreenShots/2.jpg)
+![screenshot](/ScreenShots/Chest2.png)
 ___
-![screenshot](/ScreenShots/3.jpg)
+![screenshot](/ScreenShots/Chest3.png)
 ___
 ___
 # Features
