@@ -6,7 +6,7 @@ ___
 ___
 # Screenshots
 ___
-![screenshot](/ScreenShots/Chest1.png
+![screenshot](/ScreenShots/Chest1.png)
 ___
 ![screenshot](/ScreenShots/Chest2.png)
 ___
