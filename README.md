@@ -3,7 +3,6 @@ ___
 This project is made using Unity and C#.
 In this project I have created clone of chest system of the clash royale game.
 ___
-___
 # Screenshots
 ___
 ![screenshot](/Screenshots/Chest1.png)
